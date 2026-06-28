@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # 🩺 Local AI Clinical Notes
 
@@ -8,7 +8,7 @@
 [![PHI never leaves](https://img.shields.io/badge/PHI-never%20leaves%20your%20machine-84cca0?style=for-the-badge)](#)
 [![Built with Python](https://img.shields.io/badge/built%20with-Python%203-3776ab?style=for-the-badge&logo=python&logoColor=white)](#)
 
-### [▶️ Get it on Gumroad](#) &nbsp;`[Buy link — coming soon]`
+### [▶️ Get it on Gumroad](https://kuznicki6.gumroad.com/l/cnsrf)
 
 </div>
 
@@ -70,7 +70,7 @@ A Python + FastAPI backend builds a per-format prompt and calls Ollama's local `
 
 ## ▶️ Get Local AI Clinical Notes
 
-`[Buy link — coming soon]` — a Gumroad listing for this tool isn't live yet.
+**[Get it on Gumroad →](https://kuznicki6.gumroad.com/l/cnsrf)** — $19, one-time.
 
 *This is a showcase repository — it contains the product overview and screenshots only. The full source is available with your purchase.*
 
